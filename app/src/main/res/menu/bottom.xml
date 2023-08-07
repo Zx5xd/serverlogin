@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reader"
+        android:enabled="true"
+        android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+        android:title="글보기"/>
+
+    <item
+        android:id="@+id/action_write"
+        android:enabled="true"
+        android:icon="@drawable/write_create"
+        android:title="글작성"/>
+
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/profile"
+        android:title="프로필"/>
+
+
+</menu>

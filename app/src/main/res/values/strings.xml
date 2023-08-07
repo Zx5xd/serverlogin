@@ -1,0 +1,40 @@
+<resources>
+    <!-- Mobile & Server -->
+    <string name="app_name">autologinTest</string>
+
+    <!-- Board -->
+    <string name="deleteboard_url">http://192.168.1.139:8080/androidTest/board/deleteBoard.jsp</string>
+    <string name="updateboard_url">http://192.168.1.139:8080/androidTest/board/updateBoard.jsp</string>
+    <string name="profile_url">http://192.168.1.139:8080/androidTest/board/profile.jsp</string>
+    <string name="getcominfo_url">http://192.168.1.139:8080/androidTest/board/getComInfo.jsp</string>
+    <string name="setcominfo_url">http://192.168.1.139:8080/androidTest/board/setComInfo.jsp</string>
+    <string name="addrecom_url">http://192.168.1.139:8080/androidTest/board/addRecom.jsp</string>
+    <string name="addboard_url">http://192.168.1.139:8080/androidTest/board/addBoard.jsp</string>
+    <string name="allboard_url">http://192.168.1.139:8080/androidTest/board/allBoard.jsp</string>
+
+    <!-- User -->
+    <string name="idCheck_url">http://192.168.1.139:8080/androidTest/user/idCheck.jsp</string>
+    <string name="updateinfo_url">http://192.168.1.139:8080/androidTest/user/updateInfo.jsp</string>
+    <string name="changepwd_url">http://192.168.1.139:8080/androidTest/user/changePwd.jsp</string>
+    <string name="findpwd_url">http://192.168.1.139:8080/androidTest/user/findPwd.jsp</string>
+    <string name="findid_url">http://192.168.1.139:8080/androidTest/user/findId.jsp</string>
+    <string name="join_url">http://192.168.1.139:8080/androidTest/user/join.jsp</string>
+    <string name="loginCheck_url">http://192.168.1.139:8080/androidTest/user/loginCheck.jsp</string>
+    <string name="login_url">http://192.168.1.139:8080/androidTest/user/login.jsp</string>
+    <string name="logout_url">http://192.168.1.139:8080/androidTest/user/logout.jsp</string>
+
+    <!-- xml -->
+    <string name="id">아이디</string>
+    <string name="id_message">아이디를 입력해주세요</string>
+    <string name="pwd">비밀번호</string>
+    <string name="pwd2">비밀번호 확인</string>
+    <string name="pwd_message">비밀번호를 입력해주세요</string>
+    <string name="pwd_message2">한번 더 입력해주세요</string>
+    <string name="nick">닉네임</string>
+    <string name="nick_message">닉네임을 입력해주세요</string>
+    <string name="send">확인</string>
+
+    <!-- login -->
+    <string name="succ">로그인 성공</string>
+    <string name="fail">로그인 실패</string>
+</resources>
